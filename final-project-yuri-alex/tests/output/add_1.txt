@@ -1,0 +1,24 @@
+Successfully initialized.
+Added file CMakeCache.txt
+(success)
+Added file .gitkeep
+(success)
+Added file ../tests/test_helpers.cpp
+(success)
+Added file ../tests/test_helpers.hpp
+(success)
+Added file ../tests/test.cpp
+(success)
+Printing git contents:
+Commit #0: (Message: '')
+  File: CMakeCache.txt  Version: 0
+  File: .gitkeep  Version: 0
+  File: ../tests/test_helpers.cpp  Version: 0
+  File: ../tests/test_helpers.hpp  Version: 0
+  File: ../tests/test.cpp  Version: 0
+Hash table contents:
+0|| 
+1|| 
+2|| 
+3|| 
+4|| 
